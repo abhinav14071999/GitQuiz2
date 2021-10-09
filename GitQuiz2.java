@@ -13,7 +13,11 @@ public class GitQuiz2 {
 
     public static void Cottrell(){
         System.out.println("\nThere are 10 types of people in the world: those who understand binary, and those who don't.");
+        System.out.println("\nThere are 10 types of people in the world: those who understand binary, and those who don't.");
+        System.out.println("\nThere are 10 types of people in the world");
         int a=1;
+        int b=2;
+        int c=3;
     }
     public static void Negri(){
         System.out.println("Why does Snoop Dogg always carry an umbrella?");
